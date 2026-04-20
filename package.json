@@ -1,0 +1,1 @@
+{"name":"wireless-adb","version":"1.0.0","main":"launcher.js","bin":{"wireless-adb":"launcher.js"},"keywords":["android","adb"]}
